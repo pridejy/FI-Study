@@ -5,6 +5,8 @@ SAP 재무회계(FI)의 용어와 업무 흐름을 한국어로 정리한 학습
 ## 문서
 
 - [FI 개요와 GL·AP·AR·AA·TAX·General](docs/01-fi-overview.md)
+- [FI 학습 순서](docs/02-fi-roadmap.md)
+- [RAP 학습 순서](docs/03-rap-roadmap.md)
 
 ## 읽는 방법
 
