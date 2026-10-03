@@ -209,3 +209,5 @@
 - [SAP FI·CO 통합 설명](https://learning.sap.com/courses/exploring-end-to-end-business-processes-in-sap-business-suite/managing-general-ledger-accounting-integration-aspects_d594a794-f06f-419c-b943-a483e3523536)
 
 [FI 학습 순서로 돌아가기](02-fi-roadmap.md)
+
+[회계·SAP FI 용어집](05-fi-glossary.md)
