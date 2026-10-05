@@ -1,7 +1,7 @@
 # FI 학습 순서
 
 1. **[회계 기초](04-accounting-basics.md)**: 자산·부채·자본·수익·비용 → [차변·대변](06-debit-credit.md) → [분개](07-journal-entry.md)
-2. **SAP 회계 구조**: [회사코드](08-company-code.md) → [계정과목표](09-chart-of-accounts.md) → [G/L 계정](10-gl-account.md) → [전표 헤더·항목](11-document-header-items.md) → [전표일·전기일](12-document-posting-dates.md) → 회계연도·전기기간 → 전표유형
+2. **SAP 회계 구조**: [회사코드](08-company-code.md) → [계정과목표](09-chart-of-accounts.md) → [G/L 계정](10-gl-account.md) → [전표 헤더·항목](11-document-header-items.md) → [전표일·전기일](12-document-posting-dates.md) → [회계연도·전기기간](13-fiscal-year-posting-period.md) → 전표유형
 3. **GL**: 전표 입력 → 계정별 항목 조회 → 잔액 조회 → 조정계정 → 재무제표 연결
 4. **AP·AR**: 거래처 마스터 → 송장·청구 → 지급조건·만기일 → 미결항목 → 지급·입금 → 반제 → 부분지급·잔액항목
 5. **TAX**: 과세표준 → 세금코드 → 매입·매출 세금 → 공제·불공제 → 원천세
