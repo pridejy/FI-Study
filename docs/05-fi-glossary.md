@@ -169,3 +169,14 @@ SAP는 보조원장 전기와 관련 GL 반영을 자동으로 연결합니다. 
 [계정과목표 상세 설명](09-chart-of-accounts.md)
 
 [G/L 계정의 마스터 설정·GUI·RAP 상세 설명](10-gl-account.md)
+
+## 전표 날짜 관련 용어
+
+| 용어 | 뜻 |
+|---|---|
+| 전표일 / DocumentDate / BLDAT | 원본 거래 문서의 날짜 |
+| 전기일 / PostingDate / BUDAT | 회계기간에 반영할 기준 날짜 |
+| 입력일 / CPUDT | 실제 전표를 기록한 날짜 |
+| CreatedAt | RAP 요청 생성 시각. 표준 FI 입력일과 별개 |
+
+[전표 헤더·항목](11-document-header-items.md) · [전표 날짜와 이미지](12-document-posting-dates.md)
