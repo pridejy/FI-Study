@@ -25,6 +25,8 @@ SAP 재무회계(FI)의 용어와 업무 흐름을 한국어로 정리한 학습
 - [전표 헤더·항목](docs/11-document-header-items.md)
 - [전표일·전기일 — 이미지 포함](docs/12-document-posting-dates.md)
 
+- [회계연도·전기기간](docs/13-fiscal-year-posting-period.md)
+
 ## 읽는 방법
 
 먼저 FI의 전체 구조를 이해하고, 각 영역의 용어를 실제 전표와 업무 흐름에 연결해 읽습니다. 실제 구현 시에는 사용 중인 SAP 제품, 릴리스, 배포 환경에 맞는 공식 문서와 지원 API를 확인합니다.
