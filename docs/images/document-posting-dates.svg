@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="470" viewBox="0 0 1100 470">
+<rect width="1100" height="470" fill="#f4f7fc"/>
+<g font-family="Malgun Gothic, sans-serif">
+<text x="50" y="58" font-size="30" font-weight="bold" fill="#172a47">전표일 · 입력일 · 전기일은 서로 다른 날짜입니다</text>
+<rect x="45" y="100" width="315" height="180" rx="18" fill="#dceafe"/>
+<rect x="390" y="100" width="315" height="180" rx="18" fill="#e8e0ff"/>
+<rect x="735" y="100" width="315" height="180" rx="18" fill="#d9f3e7"/>
+<text x="65" y="142" font-size="23" font-weight="bold">전표일 DocumentDate</text>
+<text x="65" y="186" font-size="28">2026-09-30</text>
+<text x="65" y="231" font-size="19">원본 송장에 적힌 날짜</text>
+<text x="410" y="142" font-size="23" font-weight="bold">입력일 Entry Date</text>
+<text x="410" y="186" font-size="28">2026-10-06</text>
+<text x="410" y="231" font-size="19">SAP에 실제 기록한 날짜</text>
+<text x="755" y="142" font-size="23" font-weight="bold">전기일 PostingDate</text>
+<text x="755" y="186" font-size="28">2026-09-30</text>
+<text x="755" y="231" font-size="19">장부에 반영할 기준 날짜</text>
+<path d="M895 290 L895 320 L80 320 L80 350" fill="none" stroke="#218467" stroke-width="4"/>
+<rect x="45" y="350" width="1005" height="75" rx="14" fill="#172a47"/>
+<text x="65" y="382" font-size="20" fill="white">달력연도 기준 예시: 전기일 9/30 → 2026년 9월 회계기간</text>
+<text x="65" y="410" font-size="17" fill="white">9월 전기기간이 열려 있고 적절한 권한·회계정책을 충족한 경우를 가정합니다.</text>
+</g></svg>
