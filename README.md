@@ -28,6 +28,10 @@
 
 - [회계연도·전기기간](docs/13-fiscal-year-posting-period.md)
 
+- [회사의 거래](docs/14-business-transactions.md)
+- [회계정보](docs/15-accounting-information.md)
+- [회계정보의 이용자](docs/16-accounting-information-users.md)
+
 ## 읽는 방법
 
 먼저 회계관리 2급 로드맵에 따라 회계 기초·계정별 처리·결산·재무제표 읽기를 공부합니다. SAP FI와 RAP은 관련 회계 개념을 배운 후 보조 자료로 활용합니다. 실제 구현 시에는 사용 중인 SAP 제품, 릴리스, 배포 환경에 맞는 공식 문서와 지원 API를 확인합니다.
